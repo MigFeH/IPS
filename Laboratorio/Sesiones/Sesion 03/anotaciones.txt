@@ -1,0 +1,25 @@
+65 (en el caso de jugadores, se podrá añadir a menores de edad)
+
+.\.	nombre | apellido | dni | telefono | nacimiento (fecha) | tipo de empleado(deportivos o no deportivos) | puesto | salario bruto anual | estado (dado de alta o baja)
+
+
+
+72
+tabla de catalogo
+.\.	id | nombre | tipo | precio
+
+tabla de ventas
+.\.	idProducto | nombre | tipo | unidades | coste total | fecha venta
+
+
+clase Producto
+	id del producto
+	nombre del producto
+	tipo de producto
+	precio
+
+clase Venta:
+	diccionario de productos con clave el producto y el dato el numero de unidades seleccionadas del dato
+	fecha de la venta
+	
+	

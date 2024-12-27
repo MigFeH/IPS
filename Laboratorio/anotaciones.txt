@@ -1,0 +1,41 @@
+65 (en el caso de jugadores, se podrá añadir a menores de edad)
+
+.\.	dni | nombre | apellido | telefono | nacimiento (fecha) | tipo de empleado(deportivos o no deportivos) | puesto | salario bruto anual | estado (dado de alta o baja)
+
+
+
+72
+tabla de catalogo
+.\.	id | nombre | tipo | precio
+
+tabla de ventas
+.\.	idProducto | nombre | tipoProducto | unidades | coste total | fecha venta
+
+
+clase Producto
+	id del producto
+	nombre del producto
+	tipo de producto
+	precio
+
+clase Venta:
+	diccionario de productos con clave el producto y el dato el numero de unidades seleccionadas del dato
+	fecha de la venta
+
+
+
+
+Implementar:
+
+	-GRABAR AL FINAL DE MERCHANDISING (ESTÁ INCOMPLETO)
+
+	-Almacenar en la BBDD el precio final de la venta	
+		// Este precio deberá ser almacenado para consulta en otras 		funcionalidades.
+
+
+
+BUSCA IMPLEMENTACIONES PENDIENTES BUSCANDO FIX
+
+
+
+

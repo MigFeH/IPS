@@ -1,0 +1,33 @@
+IPS Seminario 1 (andrea, yo, david, alejandro)
+
+vamosa ser contratados por un equipo de futbol
+vamos a implementar todas las areas tecnologicas
+de la empresa. 
+
+empleados deportivos / no deportivos
+
+deportivos: jugadores, tecnicos, entrenadores...
+no deportivos: los demas tipos de empleados del organigrama
+	- relaciones publicas
+	- redes sociales
+	- directivos de la organizacion
+
+la gestion debe gestionar horarios de los empleados y sus salarios entrand en la gestion de nominas
+teniendo en cuenta las cotizaciones de la seguridad social (impuestos, etc)
+
+instalaciones deportivas en las que los empleados deportivos pueden participar para las categorias masculina
+y femenina para los diferentes equipos de la organizacion.
+Hay que controlar cualas estan en uso, tambien podremos alquilarlas a otra gente
+
+
+Tenemos comunicacion con los medios de comunicacion, que solicitan entrevistas a jogadores deportivos y no deportivos
+que pueden ser el presidente de la organizacion como los empleados comno terceros...
+
+controles de la salud de los jugadores, tema de lesiones y evlicion de las mismas para poder dar de baja y de alta a los jugadores
+
+venta de entradas de los diferentes partidos de todos los equipos (contando con los grupso masculinos y femeninos), 
+y tener en cuenta los abonados de la entidad cuyo asiento no puede ser vendido en un año a otra persona
+
+
+
+

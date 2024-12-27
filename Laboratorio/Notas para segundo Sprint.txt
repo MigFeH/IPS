@@ -1,0 +1,43 @@
+Notas para segundo Sprint:
+
+
+
+Tenemos distintas frontends n función de los distintos usuarios
+	Vendedor entradas/abonos: poder pedir abonos a los clientes siendo un abono una reserva de un sitio para toda la temporada cuyo asiento no se podrá vender a otros clientes en toda la temporada
+		categorías de abono en función de edad (3 categorías) [adulto, jubilado, menor de edad]
+
+	Partidos interactivos: especificamos el equipo local (uno de los nuestros) y el visitante (solo el nombre del equipo visitante); la fecha y hora de inicio del partido considerando la duacion de 2h
+	
+	Suplementos para los abonados para partidos importantes que entran en los clientes abonados y si quieren asistir a esos partidos tienen que pagar un poco mas.
+
+	Enviar un email a los clientes cuando se produdizca una venta de merchandising con n resumen por email de la venta (hay que pedirle el email en el merchandising) [UN EMAIL DE VERDAD]
+
+	Especificar Horarios de entrenamiento: el equipo que entrena, la instalación deportiva en la que se realiza el entrenamiento. Si el jugador tenia entrenamiento y en esa franja de horario también una entrevista, se elimina la entrevista.
+		
+
+	Empleado de jardineria: el horario que este asignado desde una hora de inicio hasta un horario de final con una instalación en la que hacer tareas asignada. Siendo una reserva de jardineria la menos
+		prioritaria de todas las reservas existentes
+
+	Crear noticias que puedan ser visibles por los clientes (titulo, texto, imagen de la noticia (opcional),)
+
+	Accionistas: el gerente tiene opción de crear campañas en las que se intenten poner a l aventa un numero de acciones que intentaran comprar un numero de personas físicas.
+		Tres fases:
+			limitadas a los accionistas actuales y no pueden comprar mas del numero de acciones iniciales de la campaña.
+
+			accionistas que pueden comprar acciones hasta el limite de acciones de la campaña
+
+			sin lista de accionistas, cuando un cliente compra una accion pasa a ser accionista de la empresa.
+
+			
+		El accionistas nos piden un portal en el que ver sus acciones (con su id), vender sus acciones para que las compren otros accionistas y que los otros accionistas puedan comprar esas acciones. También que se puedan comprar las acciones de la campaña.
+
+
+
+
+
+
+
+
+
+
+Cambiamos el numero de teléfono por un String [CAMBIARLO EN LS BASE DE DATOS]
